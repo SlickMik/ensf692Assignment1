@@ -1,6 +1,6 @@
 # ENSF 592 Spring 2023
 # Assignment 1 Starter Code
-# Add your name here!
+# Ibrahim Khan
 
 studentName = "Ibrahim Khan"  # Change the contents of this variable to your name (leave the quotation marks).
 
